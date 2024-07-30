@@ -1,2 +1,2 @@
 # tharabhai-demo
-This is my first GIt Repository.
+This is my first Git Repository.
